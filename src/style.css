@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 100%;
+  float: left;
+  background-color: antiquewhite;
+}
+.heading {
+  width: 90%;
+  text-align: center;
+  background-color: white;
+  margin: 2% 5%;
+  padding: 1% 0;
+}
+.project-list {
+  width: 60%;
+  float: left;
+  margin: 2% 15%;
+  margin-left: 13%;
+  background-color: white;
+  padding: 4% 4%;
+  padding-left: 12%;
+}
+.project-list-child {
+  width: 23%;
+  background-color: green;
+  text-align: center;
+  padding: 5% 0;
+  margin-right: 8%;
+  margin-bottom: 5%;
+  color: white;
+  float: left;
+}
+
+button {
+  padding: 10px;
+  border-radius: 3px;
+  border: none;
+  cursor: pointer;
+}
+.margin-top {
+  margin-top: 30px;
+}
